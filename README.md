@@ -41,16 +41,6 @@ Across projects, I worked as **Business Analyst, Product Owner, and QA**, gainin
 
 <br>
 
-## 📂 Some of my projects
-
-| Project | Description | Link |
-|---------|-------------|----------------|
-| Ecommerce-graph-recommendation-system | Recommendation system for e-commerce using graph algorithms | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/MaksimLakovich/Ecommerce-graph-recommendation-system) |
-| Psychologist-aggregator | Aggregates psychologists’ services and reviews | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/MaksimLakovich/Psychologist-aggregator) |
-| Habits-tracker | Web application for tracking daily habits and productivity | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/MaksimLakovich/Habits-tracker) |
-
-<br>
-
 ## 💡 About Me
 
 My fintech background enables **strong analytical thinking** and **systems vision**, allowing me to translate complex business needs into effective technical solutions.  
