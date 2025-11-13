@@ -48,9 +48,7 @@ I aim to combine this experience with my technical skills to build **scalable, d
 
 <br>
 
-## 📍 Location
-
-Moscow | Open to **Junior+ / Middle Python / Backend Developer** roles (part-time, full-time) | **Open to relocation**
+📍 Moscow | Open to **Junior+ / Middle Python / Backend Developer** roles (part-time, full-time) | **Open to relocation**
 
 <br>
 
