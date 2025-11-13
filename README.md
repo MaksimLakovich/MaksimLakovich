@@ -3,10 +3,10 @@
 
 ---
 
-🎯 **Business Analyst with 10+ years in fintech**, contributed to large-scale CRM implementations for retail and corporate clients, and recently led product and analytics efforts on a **"Loan origination system for corporate banking"**.  
+**Business Analyst with 10+ years in fintech**, contributed to large-scale CRM implementations for retail and corporate clients, and recently led product and analytics efforts on a **"Loan origination system for corporate banking"**.  
 Across projects, I worked as **Business Analyst, Product Owner, and QA**, gaining comprehensive understanding of the full product lifecycle — from requirements and design to testing and delivery.
 
-<mark>🚀 I am now **pursuing my dream of becoming a Python/Backend Developer with interest in AI/ML**.</mark>
+<mark>🎯 I am now **pursuing my dream of becoming a Python/Backend Developer with interest in AI/ML**.</mark>
 
 <br>
 
@@ -56,7 +56,11 @@ Across projects, I worked as **Business Analyst, Product Owner, and QA**, gainin
 My fintech background enables **strong analytical thinking** and **systems vision**, allowing me to translate complex business needs into effective technical solutions.  
 I aim to combine this experience with my technical skills to build **scalable, data-driven products** that make a real impact.
 
-📍 Moscow | Open to **Junior+ / Middle Python / Backend Developer** roles (part-time, full-time) | **Open to relocation**
+<br>
+
+## 📍 Location
+
+Moscow | Open to **Junior+ / Middle Python / Backend Developer** roles (part-time, full-time) | **Open to relocation**
 
 <br>
 
@@ -64,9 +68,9 @@ I aim to combine this experience with my technical skills to build **scalable, d
 
 <br>
 
-🎯 **Бизнес-аналитик с более чем 10-летним опытом в финтехе**, участвовал в реализации крупных CRM-систем для физических и юридических лиц, а в последние годы занимался разработкой **"Кредитного конвейера для крупного корпоративного бизнеса"**. В разные периоды карьеры исполнял роли **Business Analyst, Product Owner и QA**, что позволило глубоко понять полный цикл создания продукта.
+**Бизнес-аналитик с более чем 10-летним опытом в финтехе**, участвовал в реализации крупных CRM-систем для физических и юридических лиц, а в последние годы занимался разработкой **"Кредитного конвейера для крупного корпоративного бизнеса"**. В разные периоды карьеры исполнял роли **Business Analyst, Product Owner и QA**, что позволило глубоко понять полный цикл создания продукта.
 
-🚀 Сейчас я **стремлюсь реализовать свою мечту и развиваюсь как Python / Backend-разработчик с интересом к AI/ML**. Освоил и применяю на практике **Python, Django, DRF, PostgreSQL, Docker, Git, CI/CD**. Интересуюсь **web-разработкой, backend-инженерией, data science, машинным обучением, API-интеграциями, data engineering, автоматизацией и решениями на базе искусственного интеллекта (AI-driven solutions)**.
+🎯 Сейчас я **стремлюсь реализовать свою мечту и развиваюсь как Python / Backend-разработчик с интересом к AI/ML**. Освоил и применяю на практике **Python, Django, DRF, PostgreSQL, Docker, Git, CI/CD**. Интересуюсь **web-разработкой, backend-инженерией, data science, машинным обучением, API-интеграциями, data engineering, автоматизацией и решениями на базе искусственного интеллекта (AI-driven solutions)**.
 
 💡 Опыт в банковском секторе помогает видеть систему целиком и переводить бизнес-потребности в эффективные технические решения. Стремлюсь объединить аналитические и инженерные навыки, чтобы создавать **масштабируемые и значимые продукты**.
 
